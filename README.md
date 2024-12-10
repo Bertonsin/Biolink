@@ -25,3 +25,14 @@ O código do backend está disponível no repositório [backend](https://github.
   ```
 
 2. Siga as instruções disponíveis no README dos repositórios para rodar as aplicações frontend e backend.
+
+## Integrantes
+
+- Lucas Reis
+- Millena
+- Lídia
+- Jennifer
+- Letícia Reis
+- Diego Mesquita
+- Gustavo Antunes
+- Gustavo Bertonsin
